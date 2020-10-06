@@ -1,0 +1,2 @@
+# faq
+First Netlify try
